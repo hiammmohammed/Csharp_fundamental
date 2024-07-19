@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\write_to_consle\write_to_consle\bin\Debug\net8.0\csharp_fundamentals.exe
+C:\Users\DELL\source\repos\write_to_consle\write_to_consle\bin\Debug\net8.0\csharp_fundamentals.deps.json
+C:\Users\DELL\source\repos\write_to_consle\write_to_consle\bin\Debug\net8.0\csharp_fundamentals.runtimeconfig.json
+C:\Users\DELL\source\repos\write_to_consle\write_to_consle\bin\Debug\net8.0\csharp_fundamentals.dll
+C:\Users\DELL\source\repos\write_to_consle\write_to_consle\bin\Debug\net8.0\csharp_fundamentals.pdb
+C:\Users\DELL\source\repos\write_to_consle\write_to_consle\obj\Debug\net8.0\csharp_fundamentals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\write_to_consle\write_to_consle\obj\Debug\net8.0\csharp_fundamentals.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\write_to_consle\write_to_consle\obj\Debug\net8.0\csharp_fundamentals.AssemblyInfo.cs
+C:\Users\DELL\source\repos\write_to_consle\write_to_consle\obj\Debug\net8.0\csharp_fundamentals.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\write_to_consle\write_to_consle\obj\Debug\net8.0\csharp_fundamentals.dll
+C:\Users\DELL\source\repos\write_to_consle\write_to_consle\obj\Debug\net8.0\refint\csharp_fundamentals.dll
+C:\Users\DELL\source\repos\write_to_consle\write_to_consle\obj\Debug\net8.0\csharp_fundamentals.pdb
+C:\Users\DELL\source\repos\write_to_consle\write_to_consle\obj\Debug\net8.0\csharp_fundamentals.genruntimeconfig.cache
+C:\Users\DELL\source\repos\write_to_consle\write_to_consle\obj\Debug\net8.0\ref\csharp_fundamentals.dll

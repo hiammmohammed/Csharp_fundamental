@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\write_to_consle\write_to_consle\bin\Debug\net8.0\write_to_consle.exe
+C:\Users\DELL\source\repos\write_to_consle\write_to_consle\bin\Debug\net8.0\write_to_consle.deps.json
+C:\Users\DELL\source\repos\write_to_consle\write_to_consle\bin\Debug\net8.0\write_to_consle.runtimeconfig.json
+C:\Users\DELL\source\repos\write_to_consle\write_to_consle\bin\Debug\net8.0\write_to_consle.dll
+C:\Users\DELL\source\repos\write_to_consle\write_to_consle\bin\Debug\net8.0\write_to_consle.pdb
+C:\Users\DELL\source\repos\write_to_consle\write_to_consle\obj\Debug\net8.0\write_to_consle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\write_to_consle\write_to_consle\obj\Debug\net8.0\write_to_consle.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\write_to_consle\write_to_consle\obj\Debug\net8.0\write_to_consle.AssemblyInfo.cs
+C:\Users\DELL\source\repos\write_to_consle\write_to_consle\obj\Debug\net8.0\write_to_consle.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\write_to_consle\write_to_consle\obj\Debug\net8.0\write_to_consle.dll
+C:\Users\DELL\source\repos\write_to_consle\write_to_consle\obj\Debug\net8.0\refint\write_to_consle.dll
+C:\Users\DELL\source\repos\write_to_consle\write_to_consle\obj\Debug\net8.0\write_to_consle.pdb
+C:\Users\DELL\source\repos\write_to_consle\write_to_consle\obj\Debug\net8.0\write_to_consle.genruntimeconfig.cache
+C:\Users\DELL\source\repos\write_to_consle\write_to_consle\obj\Debug\net8.0\ref\write_to_consle.dll
